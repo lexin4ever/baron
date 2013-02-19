@@ -1,5 +1,8 @@
 Baron - a small, fast and crossbrowser vertical custom scrollbar with native system scroll mechanic.
 
+## Article
+http://habrahabr.ru/company/2gis/blog/169359/
+
 ## Demo
 
 http://diokuz.github.com/baron/
